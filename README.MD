@@ -1,7 +1,7 @@
 <h1 align="center">
     Discipulus
 
-    Node.js | ReactJS | React Native
+    Node.js | ReactJS
 </h1>
 
 
